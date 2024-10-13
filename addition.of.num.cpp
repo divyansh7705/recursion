@@ -1,3 +1,5 @@
+//divyansh
+//23070123048
 #include<iostream>
 using namespace std;
 
@@ -15,3 +17,10 @@ int main()
     cin>>num;
     cout<<"Sum is: "<<sum(num);
 }
+
+
+/* output:-
+Enter a number: 
+5
+Sum is: 15
+    */
