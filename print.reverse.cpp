@@ -1,3 +1,5 @@
+//divyansh
+//23070123048
 #include <iostream>
 using namespace std; 
 
@@ -24,3 +26,7 @@ int main()
    cout<<"Reversed string: ";
    reverse(n);
 }
+/* output:-
+Enter a four digit integer: 4588
+Reversed string: 8854
+   */
