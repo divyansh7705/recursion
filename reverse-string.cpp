@@ -1,3 +1,5 @@
+//divyansh
+//23070123048
 #include <iostream>
 using namespace std;
 
@@ -13,3 +15,7 @@ int main() {
     }
     return 0;
 }
+/* output:-
+Enter a string: symbiosis
+sisoibmys
+*/
